@@ -159,13 +159,13 @@ html, body {
   
   padding-top: 15px;
 
-  transition: .5s ease;
+  transition: .35s ease;
 }
 
 .rating-container__stars--selected {
   transform: translateY(-138%) scale(.7);
 
-  transition: .5s ease;
+  transition: .35s ease;
 }
 
 
@@ -183,14 +183,14 @@ html, body {
   stroke: rgb(109, 201, 200);
   stroke-width: 1.5px;
 
-  transition: all .2s ease-in-out;
+  transition: .35s ease-in-out;
 }
 
 .rating-container__star.rating-container__star--selected svg {
   fill: rgb(109, 201, 200);
   stroke: rgb(109, 201, 200);
 
-  transition: all .2s ease-in-out;
+  transition: .35s ease-in-out;
 }
 
 /* 
